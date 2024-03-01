@@ -1,0 +1,2 @@
+# 中国合伙人(2013)电影
+(.*)中国合伙人(.*)American.Dreams.in.China.2013(.*) => {[tmdbid=196325,type=movie]}
