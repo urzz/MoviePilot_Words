@@ -1,26 +1,27 @@
 # 中国合伙人(2013)电影
-(.*)中国合伙人(.*)American.Dreams.in.China.2013(.*) => {[tmdbid=196325,type=movie]}
+(.*)中国合伙人(.*)American.Dreams.in.China.2013(.*) => {[tmdbid=196325;type=movie]}
 
 # 泰坦尼克号
-(.*)泰坦尼克号(.*) => {[tmdbid=597,type=movie]}
+(.*)泰坦尼克号(.*) => {[tmdbid=597;type=movie]}
 
 # 忽略Guardians Samples
 (.*)Guardians(.*)samples(.*)
 
 # 黑镜：潘达斯奈基 
-(.*)潘达斯奈基.Black.Mirror.Bandersnatch(.*) => {[tmdbid=569547,type=movie]}
+(.*)潘达斯奈基.Black.Mirror.Bandersnatch(.*) => {[tmdbid=569547;type=movie]}
 
 # 权力的游戏：征服与反抗 
-(.*)权力的游戏：征服与反抗(.*) => {[tmdbid=492606,type=movie]}
+(.*)权力的游戏：征服与反抗(.*) => {[tmdbid=492606;type=movie]}
 
 # 生活大爆炸剧终幕后特辑
 (.*)剧终幕后特辑.The.Big.Bang.Theory(.*) => \1The.Big.Bang.Theory\2
 
 # 绝命毒师续命之徒
-(.*)绝命毒师续命之徒.El.Camino(.*) => {[tmdbid=559969,type=movie]}
+(.*)绝命毒师续命之徒.El.Camino(.*) => {[tmdbid=559969;type=movie]}
 
 # 绝不折中：绝命毒师最终季制作记录 
-(.*)绝命毒师绝不折中(.*) => {[tmdbid=239459,type=movie]}
+(.*)绝命毒师绝不折中(.*) => {[tmdbid=239459;type=movie]}
 
 # 忽略重启人生 Special Disc
 (.*)Brush.Up.Life.2023.Special.Disc(.*)
+
