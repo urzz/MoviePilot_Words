@@ -25,3 +25,5 @@
 # 忽略重启人生 Special Disc
 (.*)Brush.Up.Life.2023.Special.Disc(.*)
 
+# 忽略 sample 文件
+(.*)[Sample|sample](.*)
